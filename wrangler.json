@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "iransayeban",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ce1362a6-2f33-43ff-a164-471cdc6c580b",
+      "database_name": "Iransayeaban"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
